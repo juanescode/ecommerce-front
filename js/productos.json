@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Pola-01",
+        "titulo": "Pola 01",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Polas internacionales",
+            "id": "Polas internacionales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pola-02",
+        "titulo": "Pola 02",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pola-03",
+        "titulo": "Pola 03",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pola-04",
+        "titulo": "Pola 04",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pola-05",
+        "titulo": "Pola 05",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-01",
+        "titulo": "PolaI 01",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-02",
+        "titulo": "Pola 02",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-03",
+        "titulo": "Pola 03",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-04",
+        "titulo": "Pola 04",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-05",
+        "titulo": "Pola 05",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-06",
+        "titulo": "Pola 06",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-07",
+        "titulo": "Pola 07",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PolaI-08",
+        "titulo": "Pola 08",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Licores-01",
+        "titulo": "Licor 01",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Licores-02",
+        "titulo": "Licor 02",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Licores-03",
+        "titulo": "Licor 03",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Licores-04",
+        "titulo": "Licor 04",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Licor-05",
+        "titulo": "Licor 05",
+        "imagen": "./img/7702004110572.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
